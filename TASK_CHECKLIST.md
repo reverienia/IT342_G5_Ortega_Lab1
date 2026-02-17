@@ -4,7 +4,11 @@
 - **Date**: 02/17/26
 
 ### DONE:
-setup ReactJS and SpringBoot: git commit -m "initial commit: setup springboot and react structure"
+- setup ReactJS and SpringBoot: git commit -m "initial commit: setup springboot and react structure"
+- POST /api/auth/register
+- POST /api/auth/login
+- Database connection (MySQL)
+- Password encryption (BCrypt)
 
 ### IN PROGRESS:
 - setup README.md and TASKLIST.md
@@ -16,8 +20,4 @@ setup ReactJS and SpringBoot: git commit -m "initial commit: setup springboot an
   - Logout
 
 ### TODO: Backend:
-- POST /api/auth/register
-- POST /api/auth/login
 - GET /api/user/me (protected)
-- Database connection (MySQL)
-- Password encryption (BCrypt)
