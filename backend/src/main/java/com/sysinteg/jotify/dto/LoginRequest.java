@@ -1,15 +1,8 @@
 package com.sysinteg.jotify.dto;
 
-import jakarta.persistence.Column;
-
-public class RegisterRequest {
-    private String username;
+public class LoginRequest {
     private String email;
     private String password;
-
-    public String getUsername() {
-        return username;
-    }
 
     public String getEmail() {
         return email;
