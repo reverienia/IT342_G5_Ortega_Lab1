@@ -1,1 +1,4 @@
-rootProject.name = 'jotify'
+rootProject.name = 'IT342_G5_Ortega_Lab1'
+include 'backend'
+include 'web'
+include 'mobile'
